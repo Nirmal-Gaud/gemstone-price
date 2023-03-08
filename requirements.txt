@@ -1,3 +1,7 @@
-streamlit
+numpy
 pandas
-xgboost==1.6.2
+scikit-learn
+seaborn
+matplotlib
+xgboost
+streamlit
